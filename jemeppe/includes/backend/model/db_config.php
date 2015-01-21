@@ -2,10 +2,10 @@
 /**
  * database login details
  */
-define("HOST", "localhost");
-define("USER", "jemeppe");
-define("PASSWORD", "admin");
-define("DATABASE", "jemeppe");
+define("HOST", "x");
+define("USER", "x");
+define("PASSWORD", "x");
+define("DATABASE", "x");
 /**
  * Is this a secure connection?  The default is FALSE, but the use of an
  * HTTPS connection for logging in is recommended.
