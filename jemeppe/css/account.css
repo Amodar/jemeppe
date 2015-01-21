@@ -1,0 +1,32 @@
+.account-menu-box {
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    margin: 20px;
+    background-color: #3e3f3a;
+}
+hr {
+    margin: 0;
+    padding: 0;
+}
+.line {
+    
+}
+
+a {
+    cursor: pointer;
+    text-decoration: none !important;
+}
+
+.account-box-text {
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+.icon{
+    padding: 20px;
+    text-align: center;
+    font-size: 33px;
+    padding-bottom: 10px;
+    color:white;
+}

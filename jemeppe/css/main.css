@@ -1,0 +1,89 @@
+
+
+.thumbnail {
+    padding: 0;
+}
+
+.footer {
+    margin-top: 100px;
+    background-color: #F5F6F7;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+#footer-logo {
+    padding: 10px;
+    width: 100%;
+    height: auto;
+}
+
+#reservation {
+    width: 100%;
+    height: auto;
+    z-index: 10;
+}
+.modal-dialog-center {
+    margin-top: 15%;
+}
+.img-col-md-6 img {
+    max-width: 550px;
+}
+.carousel-control.left, .carousel-control.right {
+    background-image: none
+}
+
+.mainnav {
+    margin: 0;
+    border-radius: 0px;
+}
+
+.mid {
+    text-align: center;   
+}
+.margin-padding-off {
+    margin:0px;
+    padding:0px;
+}
+.padding-bottom {
+    padding-bottom: 10px;   
+}
+.margin-bottom {
+    margin-bottom: 10px;   
+}
+.centered {
+    text-align: center !important;
+}
+.stick {
+    position: fixed;
+    top: 0;
+}
+
+.push-right {
+    float: right;
+}
+#jemeppe_logo img {
+    width: 80%;
+    height: auto;
+    max-width: 600px;
+}
+#jemeppe_logo {
+    margin: 0 auto;
+    padding: 10px;
+}
+
+
+@media all and (max-width: 770px) {
+    .push-right {
+        float: left;
+    }
+}
+@media all and (max-width: 1200px) {
+    .img-col-md-6 img {
+        max-width: 450px;
+    }
+}
+@media all and (max-width: 990px) {
+    .img-col-md-6 img {
+        max-width: 95%;
+    }
+}
